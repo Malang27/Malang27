@@ -10,6 +10,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malang%20Coulibaly-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malang-coulibaly-33a846181)
 [![Email](https://img.shields.io/badge/Email-mvlang27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvlang27@gmail.com)
 
+<br><br>
+
+<h3><code>malang@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Graphe de contributions GitHub" />
+
+<br><br>
+
+<h3><code>malang@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Portrait ASCII" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Fiche neofetch" /></td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -71,20 +86,9 @@
 ## 💼 Expérience
 
 - **DevOps & Fullstack Engineer** — Tiak-Tiak × Talent 2 Africa *(oct. 2026 – aujourd'hui)*
-- **Développeur Fullstack (alternance)** — Zone01 Dakar / Atos Sénégal *(sept. 2023 – avr. 2026)*
+- **Développeur Fullstack (alternance)** — Zone01 Dakar / Atos Sénégal *(sept. 2023 – avr. 2026)*<br>
   5+ applications web, API REST sécurisées pour 3 projets SaaS, déploiements 40 % plus rapides, disponibilité 99,9 %
 - **Administrateur Systèmes & Réseaux (stage)** — Hôpital Albert Royer, Dakar *(juin – juil. 2023)*
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Malang27&show_icons=true&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malang27&layout=compact&hide_border=true" alt="Langages les plus utilisés" />
-
-</div>
 
 ---
 
