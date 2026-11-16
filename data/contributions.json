@@ -1,8 +1,8 @@
 {
  "username": "Malang27",
- "total": 186,
- "current_streak": 20,
- "longest_streak": 20,
+ "total": 187,
+ "current_streak": 21,
+ "longest_streak": 21,
  "best_day": {
   "date": "2026-10-23",
   "level": 4,
@@ -21,7 +21,7 @@
   "2026-08": 0,
   "2026-09": 0,
   "2026-10": 149,
-  "2026-11": 29
+  "2026-11": 30
  },
  "days": [
   {
@@ -1846,6 +1846,11 @@
   },
   {
    "date": "2026-11-15",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-11-16",
    "level": 0,
    "count": 0
   }
